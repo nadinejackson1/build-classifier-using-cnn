@@ -1,6 +1,6 @@
 # Cats vs Dogs Kaggle Challenge
 
-This repository contains the code for the Cats vs Dogs Kaggle Challenge for the programming assignment in Course 1- Week 4 of Deeplearning.ai's "Convolutional Neural Networks" course.
+This repository contains the code for the Cats vs Dogs Kaggle Challenge for the programming assignment in Week 4 of Deeplearning.ai's "Convolutional Neural Networks" course.
 
 ### Project Description
 
